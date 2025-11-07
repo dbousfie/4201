@@ -121,7 +121,7 @@ they can contact the [[Western Technology Services
 Helpdesk]{.underline}](https://wts.uwo.ca/helpdesk) online or by phone
 at 519-661-3800 or ext. 83800 for technical support. Current versions of
 all popular browsers (e.g., Safari, Chrome, Edge, Firefox) are supported
-with OWL Brightspace; what is most important is that you update your
+with OWL Brightspace. What is most important is that you update your
 browser frequently to ensure it is current. All JavaScript and cookies
 should be enabled.
 
@@ -145,13 +145,15 @@ by phone at 519-661-3800 or ext. 83800.
 |                                   | requires formal academic         |
 |                                   | accommodation for rescheduling.  |
 |                                   | Written media assessments are    |
-|                                   | due the end of week 5.           |
+|                                   | due the end of week 5 (Feb 11,   |
+|                                   | 2026).                           |
 +===================================+==================================+
 | Presentation - 20%                | Essay 35% - Due end of Week 10   |
-|                                   |                                  |
+|                                   | (March 25, 2026)                 |
 | Option 1 -- Various Weeks         |                                  |
 |                                   |                                  |
-| Option 2 -- End of week 7         |                                  |
+| Option 2 -- End of week 7 (March  |                                  |
+| 4, 2026)                          |                                  |
 +-----------------------------------+----------------------------------+
 
 ## For all written work in this course: 
