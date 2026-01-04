@@ -113,13 +113,12 @@ announcements in OWL Brightspace as you may miss important course
 content and notifications.
 
 All course material will be posted to OWL Brightspace:
-[[https://westernu.brightspace.com/]{.underline}](https://westernu.brightspace.com/).
-If students need assistance with OWL Brightspace, they can seek support
-on the [[OWL Brightspace
-Help]{.underline}](https://brightspacehelp.uwo.ca/) page. Alternatively,
-they can contact the [[Western Technology Services
-Helpdesk]{.underline}](https://wts.uwo.ca/helpdesk) online or by phone
-at 519-661-3800 or ext. 83800 for technical support. Current versions of
+<https://westernu.brightspace.com/>. If students need assistance with
+OWL Brightspace, they can seek support on the [OWL Brightspace
+Help](https://brightspacehelp.uwo.ca/) page. Alternatively, they can
+contact the [Western Technology Services
+Helpdesk](https://wts.uwo.ca/helpdesk) online or by phone at
+519-661-3800 or ext. 83800 for technical support. Current versions of
 all popular browsers (e.g., Safari, Chrome, Edge, Firefox) are supported
 with OWL Brightspace. What is most important is that you update your
 browser frequently to ensure it is current. All JavaScript and cookies
@@ -139,22 +138,21 @@ by phone at 519-661-3800 or ext. 83800.
 
 **Methods of Evaluation**
 
-+-----------------------------------+----------------------------------+
-| Participation - 25%               | Media Assignment/Background      |
-|                                   | Presentation -- 20%- always      |
-|                                   | requires formal academic         |
-|                                   | accommodation for rescheduling.  |
-|                                   | Written media assessments are    |
-|                                   | due the end of week 5 (Feb 11,   |
-|                                   | 2026).                           |
-+===================================+==================================+
-| Presentation - 20%                | Essay 35% - Due end of Week 10   |
-|                                   | (March 25, 2026)                 |
-| Option 1 -- Various Weeks         |                                  |
-|                                   |                                  |
-| Option 2 -- End of week 7 (March  |                                  |
-| 4, 2026)                          |                                  |
-+-----------------------------------+----------------------------------+
++----------------------------------+-----------------------------------+
+| Participation - 25%              | Media Assignment/Background       |
+|                                  | Presentation -- 20%- always       |
+|                                  | requires formal academic          |
+|                                  | accommodation for rescheduling.   |
+|                                  | Written media assessments are due |
+|                                  | the end of week 5 (Feb 11, 2026). |
++==================================+===================================+
+| Presentation - 20%               | Essay 35% - Due end of Week 10    |
+|                                  | (March 25, 2026)                  |
+| Option 1 -- Various Weeks        |                                   |
+|                                  |                                   |
+| Option 2 -- End of week 7 (March |                                   |
+| 4, 2026)                         |                                   |
++----------------------------------+-----------------------------------+
 
 ## For all written work in this course: 
 
@@ -347,11 +345,11 @@ paragraph responses each week, but they need to follow the requirements
 outlined in this syllabus. Other written forms of participation can only
 be done twice each during the entire course (i.e. you can only do 2
 policy briefs summaries per semester). You can collaborate with peers on
-submissions, but they must be submitted individually. A total of 8 weeks
-of participation is required, allowing students to skip 2 weeks (e.g.,
-weeks 1,2 and 11, 12). Completing 8 weeks fulfills the full 70%. If you
-are submitting the same assignment for a second time, make sure to
-address 'What did I do differently this week?'
+submissions, but they must be submitted individually. A **total of 8
+weeks of participation is required,** allowing students to skip 4 weeks
+(e.g., weeks 1,2 and 11, 12). Completing 8 weeks fulfills the full 70%.
+If you are submitting the same assignment for a second time, make sure
+to address 'What did I do differently this week?'
 
 Weekly Engagement Options:
 
@@ -375,16 +373,20 @@ Weekly Engagement Options:
     week (or linked if hosted elsewhere). Public posting is not
     required. Each video counts for one participation mark.
 
-3.  Other forms of participation from this list:
-    <https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies>
-    excluding: True/False Questions, annotated bibliography, Quiz, Exams
-    and Tests, Fill-in-the-Blank Questions, Close Reading with
-    Questions, Diagram or Image-Based Questions, Summary. If you have
-    any questions, please contact the instructor about the viability of
-    your participation.
+3.  **Infographic -** For the infographic option, students must produce
+    a visually compelling and clearly organized visual argument that
+    shows critical engagement with this week's material. The infographic
+    should draw directly on at least two course readings, including
+    direct quotations that are embedded meaningfully in the visual
+    narrative. It must reflect current debates in Canada, using events
+    or policy developments from the past few weeks to make clear why the
+    material matters now. The assignment should not just present
+    information but take a position, expose a contradiction, or offer a
+    critique based on the themes of the week. A bibliography in proper
+    citation format must be included at the bottom or on a final panel.
 
 > Sample weekly participation submission:![Picture 565367195, Picture,
-> Picture](/media/image2.png){width="4.989583333333333in"
+> Picture](media/image1.png){width="4.989583333333333in"
 > height="1.78125in"}
 
 A Final calculation activity is **required** to receive your
@@ -395,8 +397,44 @@ can result in a higher grade. I withhold the right to assess the quality
 of the submission and adjust the grade accordingly). You should be able
 to demonstrate your responses to my feedback, engaging with different
 course material each week to demonstrate improvement throughout the
-course. See Brightspace for an example of how to calculate your
-participation grade.
+course.
+
+Calculating participation:\
+Q: Why do you do it this way? A: We use this structure to reduce
+unconscious bias and subjective grading. Participation becomes
+transparent and equitable because grades are based on clear, objective
+evidence---not attendance, personality, or assumptions. Credit for
+submissions require documented improvement and, for written work, direct
+citation of weekly readings.
+
+Q: What does it mean to calculate participation? A: Calculating
+participation minimizes unconscious bias, groupthink, and subjective
+grading. It creates a clear, fair structure for assessment. At the end
+of the course, students self-calculate their participation based on what
+they submitted each week. We only count your top 10 submissions. If
+there are any exceptional circumstances, please document them in your
+final attachment summary and explain how they impact your calculation. I
+reserve the right to reassess any or all participation during the final
+calculation.\
+\
+Sample calculation\
+w1 85 - 'more precise'\
+w2 85 - 'more precise'\
+w3 85 -- 'too colloquial'\
+w4 85 -- 'clarity needed'\
+w5 85 - 'concluding bubble missing information'\
+w6 0\
+w7 85 - 'urls and conclusion need improvement'\
+w8 85 'need for direct quotes'\
+w9 70\
+w10 90 -- 'ok\'\
+w11 90- 'ok'\
+w12 0\
+7 weeks at 85 = 7x85 = 595\
+2 weeks at 90 = 180\
+1 week at 70 = 70
+
+595+180+70 = 845 = 84.5%
 
 ## Attendance Bonus (5% on final participation summary)
 
@@ -1026,129 +1064,129 @@ and unreliability of current generative technology.
 No personal or individual identifiers will ever be included in the
 assessment of material by any generative technology.
 
-+----------------+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| **Example of   | **Why is this Allowed?**                                                                                                              | **Things to Keep in Mind**                                                                      |
-| an Allowable   |                                                                                                                                       |                                                                                                 |
-| Use**          |                                                                                                                                       |                                                                                                 |
-+----------------+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| Prompting      | This might enhance your thinking by **exposing you to other ideas** than you might come up with on your own.                          | It is important to start with **brainstorming your own ideas first** (to aid your creative      |
-| Generative     |                                                                                                                                       | thinking), rather than letting Generative technology do that initial work for you. Also, beware |
-| technology to  |                                                                                                                                       | that Generative technology might introduce biases (tends towards liberal consensus) into the    |
-| **generate**   |                                                                                                                                       | topic when prompted to generate ideas.                                                          |
-| **ideas** for  |                                                                                                                                       |                                                                                                 |
-| a class        |                                                                                                                                       |                                                                                                 |
-| project.       |                                                                                                                                       |                                                                                                 |
-+----------------+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| Using          | Generative technology writing technologies, like ChatGPT, can provide ideas for how to revise a sentence or word, begin a paragraph,  | Make sure to **get your [[thoughts written down                                                 |
-| Generative     | or express your thinking more clearly. Used in this way, Generative technology might support the development of your communication    | first]{.underline}](https://www.criticalinkling.com/p/pedagogy-thinking-and-the-first-draft)**  |
-| technology for | skills.                                                                                                                               | rather than asking Generative technology to write the first draft. Writing and thinking are     |
-| writing        |                                                                                                                                       | interconnected processes, if you prompt Generative technology to write the first draft for you, |
-| support (e.g., |                                                                                                                                       | you are not actively engaging in thinking about the material.                                   |
-| to improve     |                                                                                                                                       |                                                                                                 |
-| **writing      |                                                                                                                                       | NOTE: We also have a wonderful [[Writing Center on                                              |
-| quality,       |                                                                                                                                       | campus]{.underline}](https://writing.uwo.ca/) that provides writing support!                    |
-| clarity, and   |                                                                                                                                       |                                                                                                 |
-| expression**). |                                                                                                                                       |                                                                                                 |
-+----------------+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| Using          | Generative technology can offer study tips, provide example text/quiz practice questions, design a personalized study guide, design   | Generative technology tools are known for making up information and presenting biased output.   |
-| Generative     | flashcards, give directions for how to complete an assignment, create learning simulations and interactive scenarios to help you      | Make sure to double-check the accuracy, credibility, and reliability of any AI-generated        |
-| technology as  | think more deeply about the class content, and provide a rubric so you can self-assess your own work.                                 | information that you use to support your studying or assignment completion.                     |
-| a **study or   |                                                                                                                                       |                                                                                                 |
-| assignment     |                                                                                                                                       |                                                                                                 |
-| aid.**         |                                                                                                                                       |                                                                                                 |
-+----------------+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| Prompting      | Generative technology could potentially be used in ways that reduce cognitive load (see [[Cognitive Load                              | If Generative technology are used in ways that reduce [[germane                                 |
-| Generative     | Theory]{.underline}](https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf)), | load]{.underline}](https://www.sciencedirect.com/science/article/pii/S0747563224002541) (the    |
-| technology to  | such as breaking material into smaller chunks, summarizing and simplifying material, providing an outline of an article to support    | cognitive effort required to make connections between new information and prior knowledge) it   |
-| help **make    | pre-reading, translating text into your native language, making content more accessible, scaffolding learning, and providing concrete | can negatively impact learning. For example, if you ask a Generative technology technology to   |
-| information    | examples.                                                                                                                             | automatically summarize a complex academic article instead of reading and summarizing it        |
-| easier to      |                                                                                                                                       | yourself, you will miss out on the opportunity to fully engage with, and critically examine,    |
-| understand**   |                                                                                                                                       | the author's ideas (read: [[No One is Talking About AI\'s Impact on]{.underline}                |
-| (e.g.,         |                                                                                                                                       | [Reading]{.underline}](https://marcwatkins.substack.com/p/no-one-is-talking-about-ais-impact)). |
-| explaining     |                                                                                                                                       | This is a critical skill for college, the workplace, and engaged citizenship!                   |
-| technical or   |                                                                                                                                       |                                                                                                 |
-| academic       |                                                                                                                                       |                                                                                                 |
-| jargon,        |                                                                                                                                       |                                                                                                 |
-| providing      |                                                                                                                                       |                                                                                                 |
-| concrete       |                                                                                                                                       |                                                                                                 |
-| examples of an |                                                                                                                                       |                                                                                                 |
-| abstract       |                                                                                                                                       |                                                                                                 |
-| idea).         |                                                                                                                                       |                                                                                                 |
-+----------------+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| Using AI and   | Generative technology can be used to make learning more accessible and digitally accessible for differently abled individuals (e.g.,  | If you have a self-identified or registered disability, consider how Generative technology      |
-| Generative     | transcripts of recorded audio, closed captions for videos, alt text to describe images for blind/visually impaired individuals,       | tools might aid your thinking, communication, and learning.                                     |
-| technology is  | interpretations of complex visual data).                                                                                              |                                                                                                 |
-| recommended    |                                                                                                                                       |                                                                                                 |
-| **due to       |                                                                                                                                       |                                                                                                 |
-| different      |                                                                                                                                       |                                                                                                 |
-| abilities.**   |                                                                                                                                       |                                                                                                 |
-+----------------+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| **Example of   | **Why is this Allowed?**                                                                                                 | **Things to Keep in Mind**                                                        |
+| an Allowable   |                                                                                                                          |                                                                                   |
+| Use**          |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Prompting      | This might enhance your thinking by **exposing you to other ideas** than you might come up with on your own.             | It is important to start with **brainstorming your own ideas first** (to aid your |
+| Generative     |                                                                                                                          | creative thinking), rather than letting Generative technology do that initial     |
+| technology to  |                                                                                                                          | work for you. Also, beware that Generative technology might introduce biases      |
+| **generate**   |                                                                                                                          | (tends towards liberal consensus) into the topic when prompted to generate ideas. |
+| **ideas** for  |                                                                                                                          |                                                                                   |
+| a class        |                                                                                                                          |                                                                                   |
+| project.       |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Using          | Generative technology writing technologies, like ChatGPT, can provide ideas for how to revise a sentence or word, begin  | Make sure to **get your [thoughts written down                                    |
+| Generative     | a paragraph, or express your thinking more clearly. Used in this way, Generative technology might support the            | first](https://www.criticalinkling.com/p/pedagogy-thinking-and-the-first-draft)** |
+| technology for | development of your communication skills.                                                                                | rather than asking Generative technology to write the first draft. Writing and    |
+| writing        |                                                                                                                          | thinking are interconnected processes, if you prompt Generative technology to     |
+| support (e.g., |                                                                                                                          | write the first draft for you, you are not actively engaging in thinking about    |
+| to improve     |                                                                                                                          | the material.                                                                     |
+| **writing      |                                                                                                                          |                                                                                   |
+| quality,       |                                                                                                                          | NOTE: We also have a wonderful [Writing Center on                                 |
+| clarity, and   |                                                                                                                          | campus](https://writing.uwo.ca/) that provides writing support!                   |
+| expression**). |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Using          | Generative technology can offer study tips, provide example text/quiz practice questions, design a personalized study    | Generative technology tools are known for making up information and presenting    |
+| Generative     | guide, design flashcards, give directions for how to complete an assignment, create learning simulations and interactive | biased output. Make sure to double-check the accuracy, credibility, and           |
+| technology as  | scenarios to help you think more deeply about the class content, and provide a rubric so you can self-assess your own    | reliability of any AI-generated information that you use to support your studying |
+| a **study or   | work.                                                                                                                    | or assignment completion.                                                         |
+| assignment     |                                                                                                                          |                                                                                   |
+| aid.**         |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Prompting      | Generative technology could potentially be used in ways that reduce cognitive load (see [Cognitive Load                  | If Generative technology are used in ways that reduce [germane                    |
+| Generative     | Theory](https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf)), | load](https://www.sciencedirect.com/science/article/pii/S0747563224002541) (the   |
+| technology to  | such as breaking material into smaller chunks, summarizing and simplifying material, providing an outline of an article  | cognitive effort required to make connections between new information and prior   |
+| help **make    | to support pre-reading, translating text into your native language, making content more accessible, scaffolding          | knowledge) it can negatively impact learning. For example, if you ask a           |
+| information    | learning, and providing concrete examples.                                                                               | Generative technology technology to automatically summarize a complex academic    |
+| easier to      |                                                                                                                          | article instead of reading and summarizing it yourself, you will miss out on the  |
+| understand**   |                                                                                                                          | opportunity to fully engage with, and critically examine, the author's ideas      |
+| (e.g.,         |                                                                                                                          | (read: [No One is Talking About AI\'s Impact on                                   |
+| explaining     |                                                                                                                          | Reading](https://marcwatkins.substack.com/p/no-one-is-talking-about-ais-impact)). |
+| technical or   |                                                                                                                          | This is a critical skill for college, the workplace, and engaged citizenship!     |
+| academic       |                                                                                                                          |                                                                                   |
+| jargon,        |                                                                                                                          |                                                                                   |
+| providing      |                                                                                                                          |                                                                                   |
+| concrete       |                                                                                                                          |                                                                                   |
+| examples of an |                                                                                                                          |                                                                                   |
+| abstract       |                                                                                                                          |                                                                                   |
+| idea).         |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Using AI and   | Generative technology can be used to make learning more accessible and digitally accessible for differently abled        | If you have a self-identified or registered disability, consider how Generative   |
+| Generative     | individuals (e.g., transcripts of recorded audio, closed captions for videos, alt text to describe images for            | technology tools might aid your thinking, communication, and learning.            |
+| technology is  | blind/visually impaired individuals, interpretations of complex visual data).                                            |                                                                                   |
+| recommended    |                                                                                                                          |                                                                                   |
+| **due to       |                                                                                                                          |                                                                                   |
+| different      |                                                                                                                          |                                                                                   |
+| abilities.**   |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
 
-+-----------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| **Example of a  | **Why is this NOT Allowed?**                                                                                                            |
-| Non-Allowable   |                                                                                                                                         |
-| Use**           |                                                                                                                                         |
-+-----------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Prompting a     | Discussion prompts are meant to incorporate your voice and your thoughts. Participating in discussions is about building community and  |
-| Generative      | relationships as well as actively engaging in your own thinking and learning to communicate with others. Using Generative technology    |
-| technology      | for this activity subverts both the social and learning goals of the activity.                                                          |
-| technology to   |                                                                                                                                         |
-| **respond to a  |                                                                                                                                         |
-| discussion      |                                                                                                                                         |
-| forum prompt**  |                                                                                                                                         |
-| for you.        |                                                                                                                                         |
-+-----------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Using a         | Designing a presentation requires you to actively engage in thinking and learning about the material and consider how best to           |
-| Generative      | communicate that information to an audience. Prompting Generative technology to do this work for you subverts your learning and the     |
-| technology      | opportunity to develop your creative communication skills.                                                                              |
-| technology      |                                                                                                                                         |
-| (e.g.,          |                                                                                                                                         |
-| Slidesgo) to    |                                                                                                                                         |
-| **design a      |                                                                                                                                         |
-| class           |                                                                                                                                         |
-| presentation**  |                                                                                                                                         |
-| for you.        |                                                                                                                                         |
-+-----------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Modifying       | Making minor adjustments to AI-generated work only supports surface-level learning, rather than deep learning ([[learn                  |
-| AI-generated    | more]{.underline}](https://www.psy.gla.ac.uk/~steve/courses/archive/CERE12-13-safari-archive/topic9/webarchive-index.html)), because    |
-| work slightly   | the focus is on minor adjustments rather than truly understanding the material.                                                         |
-| to **make it    |                                                                                                                                         |
-| appear as if    |                                                                                                                                         |
-| you created     |                                                                                                                                         |
-| it**.           |                                                                                                                                         |
-+-----------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Prompting       | Research has shown that using Generative technology to provide solutions for you (or in this case, provide data analysis output for     |
-| Generative      | you) prevents you from actively engaging with, and learning, the material (read: [[Generative AI Can Harm                               |
-| technology to   | Learning]{.underline}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486&utm_source=substack&utm_medium=email)). Using        |
-| **analyze data  | Generative technology in this way subverts your learning. Additionally, Generative technology tools are not calculators or math         |
-| for you** and   | machines, they are predictability machines (they guess which words go together to make the most plausible human-sounding response).     |
-| submitting the  |                                                                                                                                         |
-| data analysis   |                                                                                                                                         |
-| as your own.    |                                                                                                                                         |
-+-----------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-| Copying         | Please read "[[The Case For Not Citing Chatbots As Information                                                                          |
-| AI-generated    | Sources]{.underline}](https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/)" |
-| text word for   | and "[[Generative AI Has an Intellectual Property                                                                                       |
-| word into your  | Problem]{.underline}](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem)" and, instead, find an original       |
-| written work,   | source to cite. When you put in the effort to find an original source to cite, you are deepening your thinking and learning about that  |
-| but **citing it | topic and you are giving credit to human authors/artists.                                                                               |
-| as written by   |                                                                                                                                         |
-| AI**.           | However, if you prompt a Generative technology technology to create an original source of text or media -- something that cannot be     |
-|                 | traced back to an original source (e.g., a Taylor Swift rendition of the Declaration of Independence) -- you can write "This text was   |
-|                 | generated by ChatGPT \[or insert another Generative technology technology\] in a footnote."                                             |
-+-----------------+-----------------------------------------------------------------------------------------------------------------------------------------+
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| **Example of a  | **Why is this NOT Allowed?**                                                                                               |
+| Non-Allowable   |                                                                                                                            |
+| Use**           |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Prompting a     | Discussion prompts are meant to incorporate your voice and your thoughts. Participating in discussions is about building   |
+| Generative      | community and relationships as well as actively engaging in your own thinking and learning to communicate with others.     |
+| technology      | Using Generative technology for this activity subverts both the social and learning goals of the activity.                 |
+| technology to   |                                                                                                                            |
+| **respond to a  |                                                                                                                            |
+| discussion      |                                                                                                                            |
+| forum prompt**  |                                                                                                                            |
+| for you.        |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Using a         | Designing a presentation requires you to actively engage in thinking and learning about the material and consider how best |
+| Generative      | to communicate that information to an audience. Prompting Generative technology to do this work for you subverts your      |
+| technology      | learning and the opportunity to develop your creative communication skills.                                                |
+| technology      |                                                                                                                            |
+| (e.g.,          |                                                                                                                            |
+| Slidesgo) to    |                                                                                                                            |
+| **design a      |                                                                                                                            |
+| class           |                                                                                                                            |
+| presentation**  |                                                                                                                            |
+| for you.        |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Modifying       | Making minor adjustments to AI-generated work only supports surface-level learning, rather than deep learning ([learn      |
+| AI-generated    | more](https://www.psy.gla.ac.uk/~steve/courses/archive/CERE12-13-safari-archive/topic9/webarchive-index.html)), because    |
+| work slightly   | the focus is on minor adjustments rather than truly understanding the material.                                            |
+| to **make it    |                                                                                                                            |
+| appear as if    |                                                                                                                            |
+| you created     |                                                                                                                            |
+| it**.           |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Prompting       | Research has shown that using Generative technology to provide solutions for you (or in this case, provide data analysis   |
+| Generative      | output for you) prevents you from actively engaging with, and learning, the material (read: [Generative AI Can Harm        |
+| technology to   | Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486&utm_source=substack&utm_medium=email)). Using        |
+| **analyze data  | Generative technology in this way subverts your learning. Additionally, Generative technology tools are not calculators or |
+| for you** and   | math machines, they are predictability machines (they guess which words go together to make the most plausible             |
+| submitting the  | human-sounding response).                                                                                                  |
+| data analysis   |                                                                                                                            |
+| as your own.    |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Copying         | Please read "[The Case For Not Citing Chatbots As Information                                                              |
+| AI-generated    | Sources](https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/)" |
+| text word for   | and "[Generative AI Has an Intellectual Property                                                                           |
+| word into your  | Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem)" and, instead, find an original       |
+| written work,   | source to cite. When you put in the effort to find an original source to cite, you are deepening your thinking and         |
+| but **citing it | learning about that topic and you are giving credit to human authors/artists.                                              |
+| as written by   |                                                                                                                            |
+| AI**.           | However, if you prompt a Generative technology technology to create an original source of text or media -- something that  |
+|                 | cannot be traced back to an original source (e.g., a Taylor Swift rendition of the Declaration of Independence) -- you can |
+|                 | write "This text was generated by ChatGPT \[or insert another Generative technology technology\] in a footnote."           |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
 
 You are responsible for the information you submit based on an AI query
 (for instance, that it does not violate intellectual property laws, or
 contain misinformation or unethical content). Your use of AI tools must
 be properly documented and cited to stay within university policies on
-[[scholastic
-offenses]{.underline}](http://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf).
-For example, any use of LLMs must be documented as outlined here: [[APA
-guidance]{.underline}](https://guelphhumber.libguides.com/c.php?g=716556&p=5279441),
-other [[citation
-formats]{.underline}](https://www.scribbr.com/ai-tools/chatgpt-citations/).
-Any assignment that is found to have used generative AI tools in
+[scholastic
+offenses](http://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf).
+For example, any use of LLMs must be documented as outlined here: [APA
+guidance](https://guelphhumber.libguides.com/c.php?g=716556&p=5279441),
+other [citation
+formats](https://www.scribbr.com/ai-tools/chatgpt-citations/). Any
+assignment that is found to have used generative AI tools in
 unauthorized ways can result in: a failure to receive full grades, the
 need to resubmit the assignment, need to orally present the assignment
 in office hours, or a failure to complete the requirements of the
