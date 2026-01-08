@@ -351,7 +351,9 @@ address 'What did I do differently this week?'
 
 Weekly Engagement Options:
 
-> In-class exercises count as one form of participation.\
+> In-class exercises (no matter how many) count as one form of
+> participation.
+>
 > For the secondary form of participation, these are available options:
 
 1.  Written Responses (250 words per lesson): A reflective analysis
@@ -382,10 +384,8 @@ Weekly Engagement Options:
     information but take a position, expose a contradiction, or offer a
     critique based on the themes of the week. A bibliography in proper
     citation format must be included at the bottom or on a final panel.
-
-> Sample weekly participation submission:![Picture 565367195, Picture,
-> Picture](media/image1.png){width="4.989583333333333in"
-> height="1.78125in"}
+    See a sample
+    [here](https://www.dropbox.com/scl/fi/fg9ahopogkmi2iioy0la5/Infographic-Week-10.pdf?rlkey=xwky3qn77adrv6baaw52pe7ru&dl=0).
 
 A Final calculation activity is **required** to receive your
 participation mark.
@@ -451,19 +451,19 @@ official or unofficial depiction of UN action in relation to a specific
 case or issue of global governance. All media options must be approved
 by the instructor before proceeding with the assignment. Media can
 include but is not limited to motion pictures, short films,
-documentaries, special reports, and public relations of any UN body,
-agency or group. Signup for the media assessment will take place through
-the link in Brightspace. The media assessment must critically engage
-with the content and argument of the media for its use in understanding
+documentaries, and (media-based) public relations of any UN body, agency
+or group. Signup for the media assessment will take place through the
+link in Brightspace. The media assessment must critically engage with
+the content and argument of the media for its use in understanding
 contemporary UN issues. This critical assessment can be presented in 2
 ways.
 
 > 1\. A written report (essay) which assesses the media for its
 > arguments about the UN issue, and the viability of the arguments given
 > the academic debates on the issue. The written assignment should be a
-> minimum of 1250 words, in proper essay format (with title page and
-> bibliography) and have a minimum of 4 academic sources, primarily from
-> course readings. **Due the end of Week 5.**
+> minimum of 1250 words (maximum of 1500), in proper essay format (with
+> title page and bibliography) and have a minimum of 4 academic sources,
+> primarily from course readings. **Due the end of Week 5.**
 >
 > 2\. An in-class presentation. A section or short part (maximum 5
 > minutes) of media should be distributed to the class (subject to
@@ -497,18 +497,18 @@ will forfeit your grade.
 
 Students will select a chapter from Mingst, Karen A., Margaret P. Karns,
 and Alynna J. Lyon. The United Nations in the 21st century. Routledge,
-2022 and highlight key issues they found in the chapter assigned for the
-week. The chapters are detailed and expansive, so students must choose
-key issues or themes of which they were unaware, or that would be useful
-in establishing a foundation for class discussion. The student will
-prepare a very short (5 minutes maximum) way to highlight the key themes
-of the text on an issue related to the theme for the week. THIS IS NOT A
-SUMMARY. The goal of the exercise is to raise analytical issues and
-concerns with the course material rather than summarize or re-present
-the material. All exercises must be preapproved by the instructor and
-cannot be presented without the instructor's approval. A minimum of 2
-academic sources is required for this submission or full grades cannot
-be achieved.
+2022, and highlight key issues they found in the chapter assigned for
+the week. The chapters are detailed and expansive, so students must
+choose key issues or themes of which they were unaware, or that would be
+useful in establishing a foundation for class discussion. The student
+will prepare a very short (5 minutes maximum) way to highlight the key
+themes of the text on an issue related to the theme for the week. THIS
+IS NOT A SUMMARY. The goal of the exercise is to raise analytical issues
+and concerns with the course material rather than summarize or
+re-present the material. All exercises must be preapproved by the
+instructor and cannot be presented without the instructor's approval. A
+minimum of 2 academic sources is required for this submission or full
+grades cannot be achieved.
 
 ## Presentation 
 
@@ -530,7 +530,7 @@ clear instructions and facilitate the exercise. The goal of the exercise
 is to raise analytical issues and concerns with the course material
 rather than summarize or re-present the material. All exercises must be
 preapproved by the instructor and cannot be presented without the
-instructor's approval. A minimum of 1 academic source is required for
+instructor's approval. A minimum of 2 academic sources is required for
 this submission, or full grades cannot be achieved.
 
 ## Essay: Due at the end of Week 10 
@@ -1373,8 +1373,6 @@ International Sport. Brill Nijhoff, 2018. 170-195.
 
 Lewis, Adam, and Jonathan Taylor. Sport: law and practice. Bloomsbury
 Publishing, 2014. Intro, Ch 1.
-
-P.
 
 **APPENDIX TO UNDERGRADUATE COURSE OUTLINES**
 
