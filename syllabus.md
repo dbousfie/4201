@@ -343,9 +343,9 @@ Students **must** complete a minimum of **two engagement options weekly
 to** fulfill participation requirements. You can choose to do 250-word
 paragraph responses each week, but they need to follow the requirements
 outlined in this syllabus. You can collaborate with peers on
-submissions, but they must be submitted individually. A **total of 10
+submissions, but they must be submitted individually. A **total of 8
 weeks of participation is required,** allowing students to skip 2 weeks
-(e.g., weeks 1, and 12). Completing 10 weeks fulfills the full 70%. If
+(e.g., weeks 1, and 12). Completing 8 weeks fulfills the full 70%. If
 you are submitting the same assignment for a second time, make sure to
 address 'What did I do differently this week?'
 
@@ -1599,3 +1599,4 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 [^4]: This is an open source document (CC BY NC 4.0). Feel free to use
     it, modify it, and share it with others. This document was designed
     by Dr. Torrey Trust.
+
