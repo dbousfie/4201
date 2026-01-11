@@ -46,7 +46,7 @@ Turtle Island (North America).
 +-----------------+--------------------------------------------------------+
 | **Instructor:** | Dan Bousfield                                          |
 +=================+========================================================+
-| **Office        | Wednesday 11:00 a.m. To 1:00 p.m. On Zoom              |
+| **Office        | Wednesday 11:00 a.m. To 1:00 p.m. and Thursday 1:00-2:20pm  On Zoom              |
 | Hours:**        |                                                        |
 +-----------------+--------------------------------------------------------+
 | **Email:**      | dbousfie@uwo.ca                                        |
@@ -1599,4 +1599,5 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 [^4]: This is an open source document (CC BY NC 4.0). Feel free to use
     it, modify it, and share it with others. This document was designed
     by Dr. Torrey Trust.
+
 
