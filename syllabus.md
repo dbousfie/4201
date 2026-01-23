@@ -1601,3 +1601,18 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     by Dr. Torrey Trust.
 
 
+Hi all
+
+As I mentioned in class, we've never had this much interest in doing background presentations. Subsequently background presentations and media presentations do not need to correspond to weekly topics or readings.
+
+However, upon review, the provocations should probably correlate to either the primary or the secondary issue for the week. The main column is the primary issue for the week, the secondary column is something we've done in the past that we may decide is more interesting on any given week.
+
+If you are doing a provocation, please have a relevant event or issue or link available in advance as soon as possible so the class can review it (you just need to put it on the sign up sheet). You also need two academic sources for the provocation to provide a framework to analyse and assess whichever issue you have chosen. One of those can be from our course readings but we probably need an outside reading that deals specifically with the dynamics of your chosen provocation topic.
+
+Remember that I need to review all presentations before they come into the classroom as there may be unforeseen issues with particularly sensitive topics that we should be careful to navigate.
+
+Please reach out if you have any questions,
+
+Dan
+
+ps. I also went through and added a bunch of up-to-date readings on different weeks of the course, some of them are for reference and some I hope to discuss in the class as well. If there is a particular topic you are interested in or would like to discuss either for your provocation or for the essay just let me know and we could always add it to the reading list.
