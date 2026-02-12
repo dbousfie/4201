@@ -1616,3 +1616,53 @@ Please reach out if you have any questions,
 Dan
 
 ps. I also went through and added a bunch of up-to-date readings on different weeks of the course, some of them are for reference and some I hope to discuss in the class as well. If there is a particular topic you are interested in or would like to discuss either for your provocation or for the essay just let me know and we could always add it to the reading list.
+
+**Message sent on February 12th**
+
+I'm just writing to document the changes we agreed upon going forward. If you weren't in class you can always review the audio from class that's available here each week.
+
+None of the suggestions below change anything in the grading scheme, it's just the way that we process the work.
+
+We discussed the value of peer review - both academically and in the classroom.
+
+Technically, since you only need eight weeks of written participation, Week 6-13 could constitute those eight forms of participation. So welcome to the class!
+
+1. Peer marking of written responses
+
+The plan going forward is to take your weekly participation submissions and I will randomly assign them to another student. So one week you submit, the next week you mark anonymously someone else's anonymous submission. This would be the schedule.
+
+Week 6 responses
+Week 7 peer marking
+Week 8 responses
+Week 9 peer marking
+Week 10 responses
+Week 11 peer marking
+Week 12 responses
+Week 13 peer marking
+
+The idea being seeing other peers work will help you understand your own work, and it actually lessens your writing load. This also means that if you submit a video presentation you will have to anonymise yourself or else the person will be able to identify who you are. On the weeks where you are responding, you will be assessed on the quality of your responses. All of this will just go in the final calculation of participation.
+
+2. Peer review for essays.
+
+The grade for the essay has not changed, this process will just allow you to have a certain part of the essay (technically 12/35) as pass/fail.
+
+How will we do this?
+
+Students who participate in the process will submit the first five pages of their essay by the end of Week 8 (​March 11). Submission results in an immediate 5/35 grade on the essay (pass/fail).​
+
+I will randomize and redistribute the five pages by March 13th - everyone gets 2 sets of randomized 5 pages (i.e. 10 pages to mark).
+
+The detailed comments and feedback are due by March 18th this is worth 10/35 marks of the essay grade (70% for completion 30% my discretion). Therefore by March 18 you will have 12/35 marks of&nbsp; your essay grade complete.
+
+I will sort them and send back both sets of comments by March 20th (giving you 5 days to incorporate the feedback before the essay is due).&nbsp;
+
+The essay is still due at the end of Week 10 (March 25). I will grade the final 20/35 of the essay as normal, and you still have the option of revising and resubmitting after that.&nbsp;
+
+The only problem with this system is deadlines. If you miss one deadline there are knock-on effects for your peers, and your ability to get the grade. If you don't submit to any part of the process, you will fall back into me marking the whole essay. This is the only way to make it equitable and useful for all. If you choose not to participate in the process your essay is just due in its entirety on March 25th.
+
+I have updated all of this information in the syllabus bot as well, but the idea is just to reinforce peer feedback without changing these structure of the assignments or any of the expectations.
+
+Please reach out if you have any questions and I hope everyone has a good reading week.
+
+Dan
+
