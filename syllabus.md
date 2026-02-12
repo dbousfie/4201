@@ -1619,6 +1619,8 @@ ps. I also went through and added a bunch of up-to-date readings on different we
 
 **Message sent on February 12th**
 
+Hi all,
+
 I'm just writing to document the changes we agreed upon going forward. If you weren't in class you can always review the audio from class that's available here each week.
 
 None of the suggestions below change anything in the grading scheme, it's just the way that we process the work.
@@ -1629,7 +1631,11 @@ Technically, since you only need eight weeks of written participation, Week 6-13
 
 1. Peer marking of written responses
 
-The plan going forward is to take your weekly participation submissions and I will randomly assign them to another student. So one week you submit, the next week you mark anonymously someone else's anonymous submission. This would be the schedule.
+The plan going forward is to take your weekly participation submissions and I will randomly and anonymously assign them to another student. So one week you submit, the next week you anonymously mark someone else's anonymous submission.&nbsp;
+
+For those who are unaware, I have said that video responses are not developing our writing skills and can't get above the base grade any further. You can still submit them for comments and feedback but I don't think they are is useful as writing.
+
+This would be the schedule.
 
 Week 6 responses
 Week 7 peer marking
@@ -1650,7 +1656,7 @@ How will we do this?
 
 Students who participate in the process will submit the first five pages of their essay by the end of Week 8 (​March 11). Submission results in an immediate 5/35 grade on the essay (pass/fail).​
 
-I will randomize and redistribute the five pages by March 13th - everyone gets 2 sets of randomized 5 pages (i.e. 10 pages to mark).
+I will randomize, anonymize and redistribute the five pages by March 13th - everyone gets 2 sets of randomized 5 pages (i.e. 10 pages to mark).
 
 The detailed comments and feedback are due by March 18th this is worth 10/35 marks of the essay grade (70% for completion 30% my discretion). Therefore by March 18 you will have 12/35 marks of&nbsp; your essay grade complete.
 
@@ -1665,4 +1671,11 @@ I have updated all of this information in the syllabus bot as well, but the idea
 Please reach out if you have any questions and I hope everyone has a good reading week.
 
 Dan
+
+
+
+
+
+
+
 
